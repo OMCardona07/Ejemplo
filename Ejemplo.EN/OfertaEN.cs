@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Ejemplo.EN
 {
-    class OfertaEN
+    public class OfertaEN
     {
+
     }
 }
