@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Ejemplo.DAL.deps.json
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Ejemplo.DAL.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Ejemplo.DAL.pdb
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\obj\Debug\netcoreapp3.1\Ejemplo.DAL.pdb
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Ejemplo.EN.dll
+C:\Users\user\source\repos\Ejemplo\Ejemplo.DAL\bin\Debug\netcoreapp3.1\Ejemplo.EN.pdb
