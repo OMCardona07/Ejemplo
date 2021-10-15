@@ -6,6 +6,6 @@ namespace Ejemplo.EN
 {
     public class OfertaEN
     {
-
+        public int id;
     }
 }
