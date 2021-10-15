@@ -244,12 +244,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Bunifu.UI.WinForms": {
-              "target": "Package",
-              "version": "[5.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
