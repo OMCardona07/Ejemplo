@@ -14,5 +14,6 @@ namespace Ejemplo.BL
         {
             return DAL.AgregarUsuario(pUsuario);
         }
+
     }
 }
